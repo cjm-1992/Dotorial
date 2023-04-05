@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dotorial/static/css/main.3e3280c4.css",
+    "main.js": "/dotorial/static/js/main.c3d9a57b.js",
+    "static/js/787.5c2972c9.chunk.js": "/dotorial/static/js/787.5c2972c9.chunk.js",
+    "static/media/profile.jpg": "/dotorial/static/media/profile.3b4c074edae95324e0b0.jpg",
+    "static/media/about.jpg": "/dotorial/static/media/about.588b91607527537da827.jpg",
+    "static/media/games.jpg": "/dotorial/static/media/games.18404b5e7b26d00427e6.jpg",
+    "static/media/landing.jpg": "/dotorial/static/media/landing.283f65342cff3c2643f9.jpg",
+    "static/media/datdota.png": "/dotorial/static/media/datdota.d3c089868fce9fca64bc.png",
+    "static/media/opendota.png": "/dotorial/static/media/opendota.438f526e2f6dbc236a57.png",
+    "static/media/dotabuff.png": "/dotorial/static/media/dotabuff.6683cf634d12da6bb853.png",
+    "static/media/liquipedia.png": "/dotorial/static/media/liquipedia.e399734d258272e38496.png",
+    "index.html": "/dotorial/index.html",
+    "main.3e3280c4.css.map": "/dotorial/static/css/main.3e3280c4.css.map",
+    "main.c3d9a57b.js.map": "/dotorial/static/js/main.c3d9a57b.js.map",
+    "787.5c2972c9.chunk.js.map": "/dotorial/static/js/787.5c2972c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e3280c4.css",
+    "static/js/main.c3d9a57b.js"
+  ]
+}
